@@ -1,3 +1,4 @@
+
 # 🔮 Classification in Machine Learning
 
 Welcome to **Classification-in-Machine-Learning** 🚀 — a collection of notebooks, examples, and resources focused on understanding and applying machine learning classification techniques. Whether you’re a beginner exploring the basics 📘 or an enthusiast fine-tuning models for better performance ⚡, this repo is your guide.  
@@ -18,6 +19,7 @@ Classification-in-Machine-Learning/
 │
 ├── datasets/           # 📊 Sample datasets for experiments
 ├── notebooks/          # 📓 Jupyter notebooks with step-by-step tutorials
+├── .gitignore          # 🛠️  unpushed files
 ├── requirements.txt    # 📦 Dependencies
 └── README.md           # 📝 You are here!
 ```
